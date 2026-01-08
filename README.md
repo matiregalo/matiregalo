@@ -1,6 +1,6 @@
-# 👋 Hola, soy Matías Regaló
+# 👋 Hi, I'm Matías Regaló
 
-## 🚀 Desarrollador Full Stack Junior
+## 🚀 Full Stack Desarrollador Junior
 
 Desarrollador web especializado en desarrollo de software a medida, aplicaciones web modernas y soluciones tecnológicas personalizadas. Apasionado por crear experiencias digitales innovadoras y eficientes.
 
@@ -34,12 +34,6 @@ Desarrollador web especializado en desarrollo de software a medida, aplicaciones
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-### 🌐 Portfolio
-
-Visita mi portfolio para ver más proyectos y conocer más sobre mí:
-
-🔗 **[Portfolio Web](https://tu-portfolio-url.com)** *(reemplaza con tu URL)*
 
 ### 📫 Contacto
 
