@@ -6,7 +6,7 @@ Web developer specialized in custom software development, modern web application
 
 
 <p align="center">
-  <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
+  <a href="https://portfoliomatiasregalo.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/%20CHECK%20OUT%20MY%20PORTFOLIO%20-083B60?style=for-the-badge&labelColor=083B60" alt="Portfolio">
   </a>
 </p>
@@ -44,6 +44,6 @@ Web developer specialized in custom software development, modern web application
 <p align="center"><strong>Connect with Me</strong></p>
 
 <p align="center">
-  <a href="mailto:jessica.arroyo.lebron@gmail.com" style="text-decoration: none;"><img src="public/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jessica-arroyo-lebron/" style="text-decoration: none;"><img src="public/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:matiasregalo64@gmail.com" style="text-decoration: none;"><img src="public/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/matias-regalo/" style="text-decoration: none;"><img src="public/linkedin.png" alt="LinkedIn" height="40"/></a>
 </p>
 
