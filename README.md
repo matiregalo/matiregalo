@@ -4,6 +4,12 @@
 
 Web developer specialized in custom software development, modern web applications, and personalized technological solutions. Passionate about creating innovative and efficient digital experiences.
 
+<p align="center">
+  <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/✨%20CHECK%20OUT%20MY%20PORTFOLIO%20✨-083B60?style=for-the-badge&labelColor=083B60" alt="Portfolio">
+  </a>
+</p>
+
 ### 💻 TechStack
 
 #### Frontend
@@ -34,14 +40,9 @@ Web developer specialized in custom software development, modern web application
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📫 Contact
+<p align="center"><strong>Connect with Me</strong></p>
 
-<a href="mailto:tu-email@ejemplo.com" target="_blank" rel="noopener noreferrer">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/tu-perfil" target="_blank" rel="noopener noreferrer">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" />
-</a>
-<a href="https://tu-portfolio-url.com" target="_blank" rel="noopener noreferrer">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/aboutdotme/0D6EFD" alt="Portfolio" />
-</a>
+<p align="center">
+  <a href="mailto:jessica.arroyo.lebron@gmail.com" style="text-decoration: none;"><img src="assets/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jessica-arroyo-lebron/" style="text-decoration: none;"><img src="assets/linkedin.png" alt="LinkedIn" height="40"/></a>
+</p>
+
