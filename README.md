@@ -34,12 +34,6 @@ Desarrollador web especializado en desarrollo de software a medida, aplicaciones
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiregalo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D6EFD&icon_color=6610F2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiregalo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D6EFD)
-
 ### 🔥 Proyectos Destacados
 
 #### 🛒 E-commerce iPhones
