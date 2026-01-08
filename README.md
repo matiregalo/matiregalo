@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Matías Regaló
 
-## 🚀 Full Stack Desarrollador Junior
+## 🚀 Full Stack Junior Developer
 
-Desarrollador web especializado en desarrollo de software a medida, aplicaciones web modernas y soluciones tecnológicas personalizadas. Apasionado por crear experiencias digitales innovadoras y eficientes.
+Web developer specialized in custom software development, modern web applications, and personalized technological solutions. Passionate about creating innovative and efficient digital experiences.
 
-### 💻 Tecnologías
+### 💻 TechStack
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -21,24 +21,27 @@ Desarrollador web especializado en desarrollo de software a medida, aplicaciones
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Bases de Datos
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Herramientas y DevOps
+#### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 📫 Contact
 
-### 📫 Contacto
-
-- 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 💼 LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🌐 Portfolio: [Tu Portfolio](https://tu-portfolio-url.com)
-
-
+<a href="mailto:tu-email@ejemplo.com" target="_blank" rel="noopener noreferrer">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/tu-perfil" target="_blank" rel="noopener noreferrer">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" />
+</a>
+<a href="https://tu-portfolio-url.com" target="_blank" rel="noopener noreferrer">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/aboutdotme/0D6EFD" alt="Portfolio" />
+</a>
