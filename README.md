@@ -34,26 +34,6 @@ Desarrollador web especializado en desarrollo de software a medida, aplicaciones
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔥 Proyectos Destacados
-
-#### 🛒 E-commerce iPhones
-E-commerce completo con React, Firebase y SEO avanzado
-- 🔗 [Demo](https://ecommerce-iphones.vercel.app/)
-- 💻 [Código](https://github.com/matiregalo/Entrega-N-1-ecommerce)
-
-#### 📦 Sistema de Gestión de Catálogo
-Sistema de gestión con detección automática de duplicados
-- 🔗 [Demo](https://neardupfinder-web-dyewecbvd2g0fkev.brazilsouth-01.azurewebsites.net/login)
-- 💻 [Código](https://github.com/matiregalo/Sistema-de-gestion-de-catalogo-de-items-NearDupFinder)
-
-#### 🚀 API Backend E-commerce
-API RESTful con Node.js, Express y MongoDB
-- 🔗 [Demo](https://backend-products-api-regalo.vercel.app/)
-- 💻 [Código](https://github.com/matiregalo/Entrega-N-1-DesarrolloServidor.git)
-
-#### 📚 Sistema de Gestión de Librería
-Sistema de gestión de librería con Java Swing
-- 💻 [Código](https://github.com/matiregalo/Sistema-de-gestion-de-una-libreria)
 
 ### 🌐 Portfolio
 
@@ -67,16 +47,4 @@ Visita mi portfolio para ver más proyectos y conocer más sobre mí:
 - 💼 LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
 - 🌐 Portfolio: [Tu Portfolio](https://tu-portfolio-url.com)
 
-### 💡 Lo que estoy aprendiendo
-
-- 🎯 Mejorando mis habilidades en arquitectura de software
-- 🔐 Profundizando en seguridad web
-- ☁️ Explorando más servicios de Azure
-- 🧪 Ampliando conocimientos en testing automatizado
-
----
-
-⭐️ *Si te gusta alguno de mis proyectos, no dudes en darle una estrella!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=matiregalo&color=blueviolet&style=flat-square)
 
